@@ -1,0 +1,1 @@
+This application was built with the use of Spring MVC framework. There were used crucial functionalities of the given framework like request params, request mappings, data binding, validation rules and more.
